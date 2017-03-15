@@ -14,8 +14,8 @@ setuptools.setup(
         ],
     author=pkg.__author__,
     license=pkg.__license__,
-    url='https://github.com/shomah4a/sphinxcontrib.youtube',
-    description='''embedding gist to sphinx''',
+    url='https://github.com/mickaelandrieu/sphinxcontrib.youtube',
+    description='''embedding youtube links to sphinx''',
     long_description=pkg.__doc__,
     namespace_packages=['sphinxcontrib'],
     classifiers='''

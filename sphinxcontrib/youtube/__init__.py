@@ -17,7 +17,7 @@ You can specify video by video url or video id.
 
 .. code-block:: rst
 
-   .. youtube:: http://www.youtube.com/watch?v=Ql9sn3aLLlI
+   .. youtube:: https://www.youtube.com/watch?v=Ql9sn3aLLlI
 
    .. youtube:: Ql9sn3aLLlI
 
@@ -30,8 +30,8 @@ finally, build your sphinx project.
 
 '''
 
-__version__ = '0.2.0'
-__author__ = '@shomah4a'
+__version__ = '0.3.0'
+__author__ = '@mickaelandrieu'
 __license__ = 'LGPLv3'
 
 
